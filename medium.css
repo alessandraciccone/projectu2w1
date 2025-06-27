@@ -1,0 +1,243 @@
+body {
+    margin: 0em;
+    background-color: white;
+}
+
+
+.svg {
+    width: 200px;
+    border: none;
+    background-color: #ffc017;
+}
+
+.sec0 {
+    display: flex;
+    height: 600px;
+    ;
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: #ffc017;
+}
+
+h1 {
+    font-size: 5em;
+    font-family: "spectral";
+    margin-bottom: 0.5em
+}
+
+
+
+
+nav {
+    display: flex;
+    height: 3em;
+    background-color: #ffc017;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+ul {
+    justify-content: space-between;
+    display: flex;
+    flex-grow: 1
+}
+
+nav ul li {
+    list-style-type: none;
+    margin-right: 1em;
+    margin-left: 0.2em;
+    margin-top: 1em;
+    align-items: center;
+
+}
+
+#logo {
+    margin-left: 3em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 200px
+}
+
+#botton1 {
+    display: flex;
+    align-items: center;
+    color: white;
+    border-radius: 1em;
+    background-color: black;
+    margin-top: 0.4em;
+    margin-bottom: 0.3em;
+
+}
+
+#sec1 {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: none;
+    background-color: #ffc017;
+
+}
+
+#sec1 p {
+    font-size: 1.5em;
+    margin-bottom: 2em
+}
+
+#botton2 {
+    margin-bottom: 1em;
+    background-color: black;
+    border-radius: 0.5em;
+    color: white;
+    width: 7em
+}
+
+#sec2 {
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    margin-left: 0;
+    margin-right: 0;
+    justify-content: space-between;
+}
+
+.h3 {
+    display: flex;
+    background-color: white;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    border: none;
+}
+
+#trending {
+    border-radius: 1em;
+    width: 1em
+}
+
+.h3 h3 {
+    font-weight: bold;
+}
+
+.firstdiv {
+    margin-bottom: 2em;
+    border: none;
+    margin-top: 2em;
+    margin-right: 1em;
+    margin-left: 1em;
+    display: flex
+}
+
+.robert {
+    border-radius: 1em;
+    height: 1em
+}
+
+.firstdiv span {
+    color: lightslategray;
+    height: 3em;
+    margin-right: 0.2em;
+}
+
+#sec22 {
+    flex-direction: column;
+
+    display: flex;
+    border: none
+}
+
+.seconddiv {
+    display: flex;
+    height: 50%;
+    width: 50%;
+}
+
+.fimage {
+    width: 2em;
+    height: 2em;
+    border-radius: 1em
+}
+
+.seconddiv p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    color: grey;
+    background-color: lightgray;
+    border-radius: 0.5em;
+    padding:
+        0.1em
+}
+
+.img {
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+}
+
+.image {
+    display: flex;
+    flex-direction: row;
+
+    width: 200px;
+}
+
+
+.seconddiv {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 100px
+}
+
+.name {
+    font-size: 1.2em;
+    font-weight: bold
+}
+
+.discover {
+    font-size: 1em;
+    border: 1px solid lightgrey;
+    width: 7em;
+    color: grey;
+    margin-right: 0.5em;
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    flex-grow: 1;
+    text-align: center
+}
+
+#sec3 {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 50px;
+}
+
+.totale {
+    display: flex;
+    direction: row
+}
+
+p {
+    display: flex;
+    display: flex;
+    align-items: center;
+}
+
+span {
+    display: flex
+}
+
+img {
+    display: flex
+}
+
+#sec4 {
+    display: flex
+}
